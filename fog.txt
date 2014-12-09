@@ -1,4 +1,5 @@
 Types of fog include:
 - Radiation fog
 - Valley fog
+- Advection fog
 - Grey fog
